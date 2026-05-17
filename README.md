@@ -1,4 +1,14 @@
-# ai-engineering-journey
+# AI Engineering Journey
+
+A structured documentation of my journey into:
+- LLMs
+- Embeddings
+- Vector Databases
+- RAG Systems
+- Prompt Engineering
+- AI Infrastructure
+
+
 
 # AI Engineering Journey
 
